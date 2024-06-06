@@ -58,7 +58,7 @@ library(readr)
 使用2023年以前球員的資料來做預測全壘打數
 ### results
 * What is your performance? 
-"預測ShoheiOtani 2024年的全壘打支數: 41.9657247321123"
+"預測ShoheiOtani 2024年的全壘打支數:  42.9657247321123"
 * Is the improvement significant?
 
 ## References
