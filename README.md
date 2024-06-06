@@ -36,7 +36,10 @@ project
 ### data
 * Input
   * Source
+  https://www.baseball-almanac.com/yearly/top25.php?s=HR&l=NL&y=2024
+  
   * Format
+  csv
   * Size
 
 ### code
