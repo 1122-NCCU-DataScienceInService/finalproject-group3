@@ -28,7 +28,7 @@ project
 
 
 ### docs
-* Your presentation, 1122_DS-FP_groupID.ppt/pptx/pdf (i.e.,1122_DS-FP_group1.ppt), by **06.06**
+* Your presentation, by **06.06**
 * Any related document for the project, i.e.,
   * discussion log
   * software user guide
