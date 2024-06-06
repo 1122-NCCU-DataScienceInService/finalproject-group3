@@ -1,0 +1,7 @@
+列出資料夾 PATH
+磁碟區序號為 FA40-F892
+C:.
+├─code
+├─data
+├─docs
+└─results

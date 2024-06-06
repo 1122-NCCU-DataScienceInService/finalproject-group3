@@ -6,7 +6,7 @@ library(readr)
 data <- data.frame(
   Year = c(2018, 2019, 2020, 2021, 2022, 2023, 2024),
   Player_Name = c("Shohei Ohtani", "Shohei Ohtani", "Shohei Ohtani", "Shohei Ohtani", "Shohei Ohtani", "Shohei Ohtani", "Shohei Ohtani"),
-  HR = c(22, 18, 7, 46, 34, 44, 14),
+  HR = c(22, 18, 7, 46, 34, 44, 15),
   AB = c(326, 384, 153, 537, 586, 497, 234),
   H = c(93, 110, 29, 138, 160, 151, 75),
   SLG = c(0.564, 0.505, 0.366, 0.592, 0.519, 0.654, 0.590),
@@ -40,4 +40,4 @@ print(paste("預測2024年的全壘打支數:", predicted_hr_2024))
 
 # 輸出包含年份、球員名稱和全壘打數量的CSV文件
 output_data <- data %>% select(Year, Player_Name, HR)
-write_csv(output_data, "data/Shohei_Ohtani_HR_Predictions.csv")
+write_csv(output_data, "results/Shohei_Ohtani_HR_Predictions.csv")
