@@ -4,7 +4,7 @@ The goals of this project.
 ## Contributors
 |組員|系級|學號|工作分配|
 |-|-|-|-|
-|李元佑|資科專一|112971002|整理資料,寫程式| 
+|李元佑|資科專一|112971002|整理資料,寫程式,報告| 
 |區仁豪|資科專一|112971010|提供資料參考|
 
 ## Quick start
@@ -13,6 +13,16 @@ Please provide an example command or a few commands to reproduce your analysis, 
 ```
 
 ## Folder organization and its related description
+project
+│── img
+├── code
+│
+├── data
+│
+├── docs
+│
+└── results
+    └── README
 
 
 ### docs
