@@ -6,8 +6,8 @@ Predict the probability of Shohei Ohtani becoming the 2024 Home Run King.
 ## Contributors
 |組員|系級|學號|工作分配|
 |-|-|-|-|
-|李元佑|資科專一|112971002|整理資料,寫程式,報告| 
-|區仁豪|資科專一|112971010|提供資料參考|
+|李元佑|資科碩一|112971002|整理資料,寫程式,報告| 
+|區仁豪|資科碩一|112971010|提供資料參考|
 
 ## Quick start
 Please provide an example command or a few commands to reproduce your analysis, such as the following R script:
