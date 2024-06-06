@@ -1,5 +1,7 @@
-# [GroupID] Home Runs
+# [GroupID] group3
+Home Runs
 The goals of this project.
+Predict the probability of Shohei Ohtani becoming the 2024 Home Run King.
 
 ## Contributors
 |組員|系級|學號|工作分配|
