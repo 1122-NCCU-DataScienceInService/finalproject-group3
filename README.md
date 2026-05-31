@@ -64,6 +64,7 @@ library(readr)
 ### results
 * What is your performance? 
 "預測ShoheiOtani 2024年的全壘打支數:  42.9657247321123"
+![Home Run Prediction Result](img/homeRuns_predict.png)
 * Is the improvement significant?
 
 ## References
