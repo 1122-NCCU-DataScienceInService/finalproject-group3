@@ -51,7 +51,7 @@ library(stringr)
 library(readr)
 
 * How do you perform training and evaluation?
-使用2023以前的這六個特徵來做線性回歸模型
+使用2018~2023以前的這六個特徵來做線性回歸模型
 年份: Year
 全壘打數: HR (Home Runs)
 打數: AB (At Bats)
